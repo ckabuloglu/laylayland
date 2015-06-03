@@ -49,7 +49,7 @@ body
 	top: 0px;
 	bottom: 0px;
 	width: 100%;
-	background: white;
+	background: #66CCFF;
 	color: black;
 }
 
@@ -69,7 +69,7 @@ body
 	top: 0px;
 	height: 72px; /* header height */
 	margin: 0px;
-	background: #EEE; /* this color fills the header, all the way across */
+	background: #FFCC00; /* this color fills the header, all the way across */
 }
 
 /* Used in all pages -- defines the width. */
@@ -87,7 +87,7 @@ body
 	height: 48px; /* footer height */
 	margin: 0px;
 	margin-top: 2em;
-	background: #EEE; /* this color fills the footer, all the way across */
+	background: #FFCC00; /* this color fills the footer, all the way across */
 }
 
 /* Used in play.html. */
@@ -97,7 +97,7 @@ body
 	bottom: 0px;
 	height: 48px; /* footer height */
 	margin: 0px;
-	background: #EEE; /* this color fills the footer, all the way across */
+	background: #FFCC00; /* this color fills the footer, all the way across */
 }
 
 /* Used in all pages -- defines the width. */
